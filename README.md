@@ -1,1 +1,0 @@
-# padrao-de-projeto-observer
